@@ -1,8 +1,8 @@
-# Con
+# Convexa
 
-## Convex + Better Auth + Expo (React Native) + Hero UI Native
+## Convexa 
 
-This project was bootstrapped , a modern TypeScript stack combining Convex, Expo/React Native, Tailwind (NativeWind), Turborepo, and more. For architecture and deeper patterns, refer to the Better-T-Stack repo and docs.
+This project was bootstrapped , a modern TypeScript stack combining Convexa, Expo/React Native, Tailwind (NativeWind), Turborepo, and more. For architecture and deeper patterns, refer to the Better-T-Stack repo and docs.
 
 ## Tech Stack
 
