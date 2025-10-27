@@ -9,9 +9,6 @@ This project was bootstrapped , a modern TypeScript stack combining Convex, Expo
 * **TypeScript** — static typing for safety and DX
 * **[React Native (Expo)](https://expo.dev/)** — SDK 54
 * **[Tailwind (NativeWind)](https://www.nativewind.dev/)** — Tailwind for React Native
-* **[Hero UI Native](https://github.com/heroui-inc/heroui-native)** — modern React Native UI library 🚧 *Alpha*
-* **[Convex](https://docs.convex.dev/)** — reactive backend-as-a-service
-* **[Better Auth](https://convex-better-auth.netlify.app/)** — auth primitives on Convex
 * **[Biome](https://biomejs.dev/)** — fast formatting and linting
 * **[Turborepo](https://turbo.build/repo/docs)** — monorepo build system
 
